@@ -1,0 +1,4 @@
+
+git reset local~1;
+git checkout pushed;
+git revert pushed;
