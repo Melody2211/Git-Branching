@@ -1,4 +1,3 @@
-
 git fetch;
 git rebase o/main side1;
 git rebase side1 side2;
