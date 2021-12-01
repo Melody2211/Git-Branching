@@ -1,0 +1,5 @@
+
+git checkout master;
+git cherry-pick C2;
+git commit --amend;
+git cherry-pick C3;
