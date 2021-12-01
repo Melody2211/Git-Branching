@@ -1,4 +1,3 @@
-
 git rebase main bugFix;
 git rebase bugFix side;
 git rebase side another;
