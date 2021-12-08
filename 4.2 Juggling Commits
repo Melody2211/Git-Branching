@@ -1,4 +1,4 @@
 git rebase -i caption~2 --aboveAll;
 git commit --amend;
 git rebase -i caption~2 --aboveAll;
-git branch -f master caption;
+git branch -f main caption;
